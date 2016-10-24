@@ -1,0 +1,5 @@
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProject\bin\Debug\CalculationProject.dll
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProject\bin\Debug\CalculationProject.pdb
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProject\obj\Debug\CalculationProject.csprojResolveAssemblyReference.cache
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProject\obj\Debug\CalculationProject.dll
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProject\obj\Debug\CalculationProject.pdb

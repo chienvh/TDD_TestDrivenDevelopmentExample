@@ -1,0 +1,7 @@
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProjectTest\bin\Debug\CalculationProjectTest.dll
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProjectTest\bin\Debug\CalculationProjectTest.pdb
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProjectTest\bin\Debug\CalculationProject.dll
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProjectTest\bin\Debug\CalculationProject.pdb
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProjectTest\obj\Debug\CalculationProjectTest.csprojResolveAssemblyReference.cache
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProjectTest\obj\Debug\CalculationProjectTest.dll
+c:\users\chienvh\documents\visual studio 2013\Projects\TDDTest\CalculationProjectTest\obj\Debug\CalculationProjectTest.pdb
